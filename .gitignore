@@ -1,1 +1,8 @@
+# python cache binaries
 __pycache__
+
+#virtual environment
+.venv
+
+#test cache
+.pytest_cache
