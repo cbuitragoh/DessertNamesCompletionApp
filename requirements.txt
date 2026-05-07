@@ -1,6 +1,6 @@
 openai==0.28
 Pillow==12.2.0
-Requests==2.32.2
+Requests==2.33.0
 streamlit==1.37.0
 transformers==5.0.0rc3
 torch==2.8.0
